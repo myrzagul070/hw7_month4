@@ -1,0 +1,13 @@
+header{
+    width: 40%;
+    display: flex;
+    justify-content: space-around;
+    margin: 0 auto;
+    background-color: crimson;
+    padding: 10px;
+}
+
+footer{
+    width: 100%;
+    text-align: center;
+}
